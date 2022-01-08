@@ -1,0 +1,48 @@
+.divider{
+    display:flex;
+    column-gap: 10px;
+}
+.h{
+    text-align: center;
+    font-size: medium;
+}
+ .box{width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.card{
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px 10px rgb(70, 47, 47);
+    border-radius: 7%;
+}
+.card img{
+    width: 80%;
+}
+.text{
+    padding: 10px;
+    background-color: white;
+}
+.button{
+    background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  text-align:right;
+  text-decoration: none;
+  display: inline-block;}
+body{
+    margin:10px;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
